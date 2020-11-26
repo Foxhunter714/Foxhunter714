@@ -1,5 +1,9 @@
 
-![Test](https://user-images.githubusercontent.com/48634804/100394701-decb1200-301c-11eb-80e3-2abeae1bfb96.gif)
+
+
+ <img align="center" alt="GIF" src=![Test](https://user-images.githubusercontent.com/48634804/100394701-decb1200-301c-11eb-80e3-2abeae1bfb96.gif)
+ />
+ 
 
 
 ### Hi there 👋
