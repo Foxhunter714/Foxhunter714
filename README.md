@@ -31,9 +31,9 @@
 
 ### - I'm currently...
 
-- Improving my React Native skills.
+- Improving my Java & Kotlin skills.
 - Learning to develop Mobile-first web-apps.
-- Learning React with Redux.
+- Learning Linux.
 - Adding databases to my skill set.
 
 ---
