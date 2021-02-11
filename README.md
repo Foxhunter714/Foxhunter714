@@ -25,8 +25,7 @@
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio_colour.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-  [<img src="https://miro.medium.com/max/480/1*oNM0JVqivoi3lVPF6ygp9Q.png" alt="c logo" width="70">](https://kotlinlang.org/) 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" height="35px" style="vertical-align:top margin:6px 4px" />
+  [<img src="https://miro.medium.com/max/480/1*oNM0JVqivoi3lVPF6ygp9Q.png" alt="c logo" width="70">]
 
  
 
