@@ -19,12 +19,14 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/tools/visualstudio.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+
+ 
 
 ---
 
