@@ -33,7 +33,7 @@
 
 </p>
 
-### - I'm currently...
+### - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I'm currently...
 
 - Improving my Java & Kotlin skills.
 - Learning to develop Mobile-first web-apps.
