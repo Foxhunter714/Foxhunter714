@@ -8,11 +8,9 @@
   
   <br>
   
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=quadrified&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
   
-  <p align="right">
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxhunter714&theme=tokyonight&show_icons=true" />
-</p>
+  
 
 ---
 
@@ -32,10 +30,12 @@
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
+  
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=quadrified&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
- 
+<p align="right">
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxhunter714&theme=tokyonight&show_icons=true" />
+</p> 
 
 ---
 
